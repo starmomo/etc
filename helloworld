@@ -1,0 +1,5 @@
+Hello World!
+
+우분투에서 vi helloworld로 파일을 작성할 때에는 sudo 사용.
+
+>> sudo vi helloworld.txt
